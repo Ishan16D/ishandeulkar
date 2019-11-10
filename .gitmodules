@@ -1,0 +1,4 @@
+[submodule "TwitterDisasterMapping"]
+	path = TwitterDisasterMapping
+	url = https://github.com/Ishan16D/TwitterDisasterMapping.git
+	branch = master
